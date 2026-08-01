@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "sources": {
+    "raw/web/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing.md": {
+      "content_hash": "b671f53d3ac8554cfc5c24483ded6800d6e29d5d6816d80085b0cf8d8abeba87",
+      "status": "processed",
+      "first_seen": "2026-08-01T13:36:17Z",
+      "last_seen": "2026-08-01T13:39:51Z",
+      "processed_at": "2026-08-01T13:39:51Z",
+      "last_error": null
+    }
+  },
+  "queue": {
+    "status": "waiting",
+    "queued_count": 0,
+    "oldest_queued": null,
+    "last_checked": "2026-08-01T13:39:51Z"
+  }
+}

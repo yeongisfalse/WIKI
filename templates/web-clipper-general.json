@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "0.1.0",
+  "name": "LLM Wiki - Web Source",
+  "behavior": "create",
+  "noteNameFormat": "{{date|date:\"YYYY-MM-DD\"}}_{{domain|safe_name}}_{{title|safe_name}}",
+  "path": "raw/web",
+  "properties": [
+    {
+      "name": "type",
+      "value": "web",
+      "type": "text"
+    },
+    {
+      "name": "title",
+      "value": "{{title}}",
+      "type": "text"
+    },
+    {
+      "name": "source",
+      "value": "{{url}}",
+      "type": "text"
+    },
+    {
+      "name": "site",
+      "value": "{{site}}",
+      "type": "text"
+    },
+    {
+      "name": "captured_at",
+      "value": "{{time}}",
+      "type": "text"
+    },
+    {
+      "name": "status",
+      "value": "captured",
+      "type": "text"
+    }
+  ],
+  "noteContentFormat": "# {{title}}\n\n> [!info] Source\n> URL: {{url}}\n> Site: {{site}}\n> Published: {{published}}\n> Captured: {{time}}\n\n{{content}}"
+}

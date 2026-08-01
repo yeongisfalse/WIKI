@@ -1,0 +1,17 @@
+# Obsidian 기기별 상태
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# 운영체제·개발 부산물
+.DS_Store
+node_modules/
+__pycache__/
+*.py[cod]
+
+# 비밀값과 로컬 환경 설정
+.env
+.env.*
+!.env.example
+*.pem
+*.key
