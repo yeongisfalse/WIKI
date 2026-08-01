@@ -8,12 +8,44 @@
       "last_seen": "2026-08-01T13:39:51Z",
       "processed_at": "2026-08-01T13:39:51Z",
       "last_error": null
+    },
+    "raw/web/2026-08-01_nature.com_The increasing potential and challenges of digital twins - Nature Computational Science.md": {
+      "content_hash": "605667e4dd8b947cadfe97b0ee436b15a932851520a88b43630d3fc4e488a283",
+      "status": "processed",
+      "first_seen": "2026-08-01T14:28:30Z",
+      "last_seen": "2026-08-01T14:33:45Z",
+      "processed_at": "2026-08-01T14:33:45Z",
+      "last_error": null
+    },
+    "raw/web/2026-08-01_sciencedirect.com_Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems.md": {
+      "content_hash": "e7b2826cb072d0854d46ff7a565aee9b927fb69d410d924fe9dddfdc12758cf1",
+      "status": "processed",
+      "first_seen": "2026-08-01T14:31:17Z",
+      "last_seen": "2026-08-01T14:33:45Z",
+      "processed_at": "2026-08-01T14:33:45Z",
+      "last_error": null
+    },
+    "raw/web/2026-08-01_sciencedirect.com_Transitioning trends into action A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making.md": {
+      "content_hash": "e5738cd04d15a9410c0978df93c9e9639b5040a297ce84c54202f773c64eb62b",
+      "status": "processed",
+      "first_seen": "2026-08-01T14:31:46Z",
+      "last_seen": "2026-08-01T14:33:45Z",
+      "processed_at": "2026-08-01T14:33:45Z",
+      "last_error": null
+    },
+    "raw/web/2026-08-01_tandfonline.com_Verification and validation of digital twins a systematic literature review for manufacturing applications.md": {
+      "content_hash": "4acefd17ebd3200dcdef54e1207bfb07db58143d2c61f6ea3df4b5f065512b54",
+      "status": "processed",
+      "first_seen": "2026-08-01T14:29:10Z",
+      "last_seen": "2026-08-01T14:33:45Z",
+      "processed_at": "2026-08-01T14:33:45Z",
+      "last_error": null
     }
   },
   "queue": {
     "status": "waiting",
     "queued_count": 0,
     "oldest_queued": null,
-    "last_checked": "2026-08-01T13:39:51Z"
+    "last_checked": "2026-08-01T14:33:45Z"
   }
 }

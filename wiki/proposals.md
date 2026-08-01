@@ -49,3 +49,47 @@ AI가 기존 위키 페이지에 연결·갱신을 제안하는 단일 검토함
 - 근거: 원문 4장 사례와 5장 통합 아키텍처 제안. 위 루프를 일반화하는 표현은 혜영님의 연구 맥락에 맞춘 해석이므로 관련 근거를 추가 확인해야 한다.
 - 출처: `wiki/web/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing.md`
 - 신뢰도: `medium` (원문 근거는 높지만, 연구 아이디어로의 확장은 해석임)
+
+## [2026-08-01] ingest | The increasing potential and challenges of digital twins
+
+### P-005 | DT 성숙도·계산비용·신뢰성 축 보강
+
+- 상태: `pending`
+- 대상: `wiki/concepts/Digital Twin.md`, `wiki/concepts/Uncertainty Quantification.md`, `wiki/methods/Surrogate Modeling.md`
+- 제안: fit-for-purpose 설계, 모델 복잡도와 비용·정확도 trade-off, surrogate model, V&V·UQ·표준·human-in-the-loop를 기존 DT 개념과 연결한다.
+- 근거: Nature Editorial이 Focus와 여러 Perspective에서 종합한 공통 과제.
+- 출처: `wiki/web/2026-08-01_nature.com_The increasing potential and challenges of digital twins - Nature Computational Science.md`
+- 신뢰도: `medium` (공식 Editorial의 종합·전망)
+
+## [2026-08-01] ingest | Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems
+
+### P-006 | HRC 조립 DT 사례와 DES·상호운용성 연결
+
+- 상태: `pending`
+- 대상: `wiki/topics/Human-Robot Collaboration in Manufacturing.md`, `wiki/methods/Discrete-Event Simulation.md`, `wiki/concepts/Interoperability.md`
+- 제안: Digital Model(DES·RTVS)–Digital Mirror(IVRE)–orchestrator 구조, FIWARE/FIROS 데이터 교환, task allocation·ergonomics KPI를 사례 지도에 추가한다.
+- 근거: FELICE 자동차 조립라인 case study와 workstation workflow 비교.
+- 출처: `wiki/web/2026-08-01_sciencedirect.com_Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems.md`
+- 신뢰도: `high`
+
+## [2026-08-01] ingest | Transitioning trends into action: A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making
+
+### P-007 | 통합 DT 최적화 루프와 의사결정 아키텍처 보강
+
+- 상태: `pending`
+- 대상: `wiki/methods/Simulation-based Optimization.md`, `wiki/concepts/Decision Support System.md`, `wiki/ideas/Integrated Digital Twin Optimization Loop.md`
+- 제안: IoT platform–APM–MES–FlexSim–OptQuest–현장 실행의 데이터 흐름을 정리하고, 전략적 설비 결정과 운영적 schedule 재계산을 하나의 DT 최적화 루프로 연결한다.
+- 근거: dynamic job-shop MaaS 산업 실험, WIP 기반 시뮬레이션, makespan 최적화.
+- 출처: `wiki/web/2026-08-01_sciencedirect.com_Transitioning trends into action A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making.md`
+- 신뢰도: `high`
+
+## [2026-08-01] ingest | Verification and validation of digital twins: a systematic literature review for manufacturing applications
+
+### P-008 | 신뢰할 수 있는 DT의 V&V·4R 주제 지도 생성
+
+- 상태: `pending`
+- 대상: `wiki/concepts/Model Verification and Validation.md`, `wiki/concepts/Digital Twin Maturity.md`, `wiki/topics/Trusted Digital Twin.md`
+- 제안: verification과 validation의 목적을 분리하고, 4R(Representation·Replication·Reality·Relational) capability와 요구사항·context of use·trust metric을 연결한다.
+- 근거: 157편 SLR의 4R 분류와 V&V 현황(양쪽 모두 보고 24%, Relational 0%).
+- 출처: `wiki/web/2026-08-01_tandfonline.com_Verification and validation of digital twins a systematic literature review for manufacturing applications.md`
+- 신뢰도: `high`

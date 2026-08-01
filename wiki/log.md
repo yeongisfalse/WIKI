@@ -31,3 +31,10 @@
 - `wiki/web/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing.md` 요약 페이지를 `draft`·`high` 신뢰도로 생성했다.
 - 기존 위키 페이지는 직접 수정하지 않았으며, 개념·주제·방법·아이디어 연결은 `wiki/proposals.md`의 P-001–P-004로 제안했다.
 - `wiki/index.md`에 웹 자료를 등록하고, 처리 상태를 `wiki/.state/ingest-state.json`에 `processed`로 기록했다.
+
+## [2026-08-01] ingest | 새 웹 자료 4개
+
+- Nature Editorial, HRC 조립 DES 사례, MaaS simulation-based DT 아키텍처, 제조 DT V&V SLR 원본 4개를 변경하지 않고 처리했다.
+- 각 요약 페이지를 `draft`로 생성했다. Nature Editorial은 `medium`, 나머지 peer-reviewed 연구 3개는 `high` 신뢰도로 평가했다.
+- 기존 위키 페이지는 직접 수정하지 않았으며, 연결·갱신 제안 P-005–P-008을 `wiki/proposals.md`에 추가했다.
+- `wiki/index.md`와 `wiki/.state/ingest-state.json`을 갱신했다. 감지 스크립트는 iCloud 인덱싱·쓰기 권한 문제로 자동 상태 저장이 실패할 수 있어 canonical 상태는 수동으로 기록했다.
