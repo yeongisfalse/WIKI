@@ -56,10 +56,10 @@ AI가 기존 위키 페이지에 연결·갱신을 제안하는 단일 검토함
 
 - 상태: `pending`
 - 대상: `wiki/concepts/Digital Twin.md`, `wiki/concepts/Uncertainty Quantification.md`, `wiki/methods/Surrogate Modeling.md`
-- 제안: fit-for-purpose 설계, 모델 복잡도와 비용·정확도 trade-off, surrogate model, V&V·UQ·표준·human-in-the-loop를 기존 DT 개념과 연결한다.
-- 근거: Nature Editorial이 Focus와 여러 Perspective에서 종합한 공통 과제.
+- 제안: fit-for-purpose 설계, 모델 복잡도와 비용·정확도 trade-off, surrogate model, 검증·타당화·불확실성 정량화·표준·human-in-the-loop를 기존 DT 개념과 연결한다.
+- 근거: Nature Editorial이 Focus와 여러 Perspective·Comment에서 종합한 공통 과제.
 - 출처: `wiki/web/2026-08-01_nature.com_The increasing potential and challenges of digital twins - Nature Computational Science.md`
-- 신뢰도: `medium` (공식 Editorial의 종합·전망)
+- 신뢰도: `high` (출처 신뢰도는 높지만, Editorial 종합 내용의 세부 주장은 원 연구에서 재확인)
 
 ## [2026-08-01] ingest | Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems
 
@@ -85,11 +85,11 @@ AI가 기존 위키 페이지에 연결·갱신을 제안하는 단일 검토함
 
 ## [2026-08-01] ingest | Verification and validation of digital twins: a systematic literature review for manufacturing applications
 
-### P-008 | 신뢰할 수 있는 DT의 V&V·4R 주제 지도 생성
+### P-008 | 신뢰할 수 있는 DT의 검증·타당화·4R 주제 지도 생성
 
 - 상태: `pending`
 - 대상: `wiki/concepts/Model Verification and Validation.md`, `wiki/concepts/Digital Twin Maturity.md`, `wiki/topics/Trusted Digital Twin.md`
-- 제안: verification과 validation의 목적을 분리하고, 4R(Representation·Replication·Reality·Relational) capability와 요구사항·context of use·trust metric을 연결한다.
-- 근거: 157편 SLR의 4R 분류와 V&V 현황(양쪽 모두 보고 24%, Relational 0%).
+- 제안: 구현 검증과 사용 맥락 타당화의 목적을 분리하고, 4R(Representation·Replication·Reality·Relational) capability와 요구사항·context of use·trust metric을 연결한다.
+- 근거: 157편 SLR의 4R 분류와 검증·타당화 현황(양쪽 모두 보고 24%, Relational 0%).
 - 출처: `wiki/web/2026-08-01_tandfonline.com_Verification and validation of digital twins a systematic literature review for manufacturing applications.md`
 - 신뢰도: `high`

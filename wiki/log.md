@@ -34,7 +34,12 @@
 
 ## [2026-08-01] ingest | 새 웹 자료 4개
 
-- Nature Editorial, HRC 조립 DES 사례, MaaS simulation-based DT 아키텍처, 제조 DT V&V SLR 원본 4개를 변경하지 않고 처리했다.
-- 각 요약 페이지를 `draft`로 생성했다. Nature Editorial은 `medium`, 나머지 peer-reviewed 연구 3개는 `high` 신뢰도로 평가했다.
+- Nature Editorial, HRC 조립 DES 사례, MaaS simulation-based DT 아키텍처, 제조 DT 검증·타당화 SLR 원본 4개를 변경하지 않고 처리했다.
+- 각 요약 페이지를 `draft`로 생성했다. Nature Editorial은 출처 신뢰도 `high`(편집적 종합이라는 근거 유형은 별도 표기), 나머지 peer-reviewed 연구 3개도 `high`로 평가했다.
 - 기존 위키 페이지는 직접 수정하지 않았으며, 연결·갱신 제안 P-005–P-008을 `wiki/proposals.md`에 추가했다.
 - `wiki/index.md`와 `wiki/.state/ingest-state.json`을 갱신했다. 감지 스크립트는 iCloud 인덱싱·쓰기 권한 문제로 자동 상태 저장이 실패할 수 있어 canonical 상태는 수동으로 기록했다.
+
+## [2026-08-01] revise | 신뢰도와 용어 명확화
+
+- Nature Editorial의 출처 신뢰도를 `high`로 조정하고, Editorial이라는 근거 유형과 원 연구 재확인 필요성을 명시했다.
+- 검증과 타당화의 약어를 사용하지 않고, 검증(verification)과 타당화(validation)를 처음에 풀어 쓴 뒤 한국어 표현으로 통일했다.
