@@ -43,3 +43,9 @@
 
 - Nature Editorial의 출처 신뢰도를 `high`로 조정하고, Editorial이라는 근거 유형과 원 연구 재확인 필요성을 명시했다.
 - 검증과 타당화의 약어를 사용하지 않고, 검증(verification)과 타당화(validation)를 처음에 풀어 쓴 뒤 한국어 표현으로 통일했다.
+
+## [2026-08-02] revise | 용어와 4R 설명 보강
+
+- `ingest`를 원본에서 위키 요약·메타데이터·연결 제안으로 구조화하는 초기 처리 단계로 설명했다.
+- 4R(Representation·Replication·Reality·Relational)의 단계별 의미와 capability 예시를 추가했다.
+- Nature Editorial의 유형 설명을 “특정 주제의 주요 연구와 쟁점을 소개·해설하는 편집 글”로 구체화했다.

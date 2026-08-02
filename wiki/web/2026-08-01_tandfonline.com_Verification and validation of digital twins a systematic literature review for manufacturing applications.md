@@ -32,6 +32,10 @@ tags:
 
 이 systematic literature review(SLR)는 제조 분야 디지털트윈(DT)에서 **verification(구현 검증)**과 **validation(사용 맥락 타당화)**이 실제로 어떻게 수행되는지, 그리고 두 과정이 구분되는지를 분석한다. 결론은 두 과정을 모두 수행했다고 보고한 연구가 적고, 검증과 타당화의 표준 절차와 목적에 대한 합의도 부족하다는 것이다. 신뢰할 수 있는 DT를 만들려면 DT의 capability·context of use·요구사항과 연결된 검증과 타당화가 필요하다.
 
+## ingest 단계란?
+
+이 위키에서 `ingest`는 `raw/`에 보관된 불변 원본을 읽어 위키용 요약·메타데이터·연결 제안으로 구조화하고, 처리 상태를 기록하는 초기 처리 단계다. 원본을 수정하거나 덮어쓰는 단계가 아니다.
+
 ## 연구 설계 및 범위
 
 - ScienceDirect, Engineering Village, Web of Science에서 `digital twin`과 manufacturing/production/fabrication/assembly 및 verification/validation 검색어를 조합했다.
@@ -42,6 +46,15 @@ tags:
 ## 주요 발견
 
 ### 1. 많은 연구가 DT의 최소 조건을 충족하지 않는다
+
+#### 4R framework의 단계
+
+| 단계 | 의미 | 이 연구에서 본 capability 예시 |
+| --- | --- | --- |
+| **Representation** | 물리 시스템을 디지털 공간에 표현하기 위한 기반을 만드는 단계 | 실시간 데이터 수집 파이프라인, 저장·분석, 가상 표현 |
+| **Replication** | 실제 데이터를 이용해 물리 시스템의 출력을 재현하는 디지털 복제물을 만드는 단계 | 물리 시스템과 디지털 복제물의 출력 일치 |
+| **Reality** | 복제에 더해 물리 시스템의 동작을 예측하고 what-if 분석을 수행하는 단계 | 미래 상태 예측, 시나리오 비교, 고급 시뮬레이션 |
+| **Relational** | 디지털트윈이 고차원 문제 해결과 자율적 조정을 수행하는 단계 | 자율 의사결정, self-calibration, 양방향 데이터·행동 연결 |
 
 - 49%가 저자들이 채택한 정의상 DT가 아닌 것으로 분류되었다.
 - 4R 분류에서 Representation 약 15%, Replication 26%, Reality 10%였고, Relational 수준은 없었다.
@@ -74,7 +87,7 @@ tags:
 ## 혜영님의 연구와의 관련성
 
 - 최적화 결과를 실제 시스템에 적용하려면 “모델이 요구사항대로 구현되었는가(구현 검증)”와 “사용 목적에 맞게 실제를 대표하는가(사용 맥락 타당화)”를 분리해 기록해야 한다.
-- simulation-based DT를 구축할 때, 상태 동기화·출력 오차·KPI·요구사항 traceability를 ingest 단계부터 메타데이터로 남기는 운영 규칙을 제안할 수 있다.
+- simulation-based DT를 구축할 때, 자료를 원본에서 위키용 구조로 바꾸는 ingest(수집·초기 정리) 단계부터 상태 동기화·출력 오차·KPI·요구사항 traceability를 메타데이터로 남기는 운영 규칙을 제안할 수 있다.
 - 4R capability를 연구 아이디어 평가표로 사용하면, 단순 시뮬레이션·디지털 모델·실시간 DT·자율 의사결정의 차이를 명확히 할 수 있다.
 
 ## 한계와 확인 필요
