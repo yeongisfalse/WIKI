@@ -1,7 +1,7 @@
 ---
 type: topic
 title: "Digital Twin in Smart Manufacturing"
-status: draft
+status: reviewed
 confidence: high
 confidence_reason: "스마트 제조 디지털트윈 문헌 연구의 분류 축을 중심으로, 후속 사례 연구와 연결한 주제 지도다. 원문 분석 범위는 Scopus·영어·engineering·2003–2020 문헌으로 제한된다."
 tags:

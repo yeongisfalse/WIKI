@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "RAMI 4.0"
-status: draft
+status: reviewed
 confidence: high
 confidence_reason: "OUP 문헌 연구가 인용한 RAMI 4.0의 세 축과 제조 계층을 기준으로 정리했다. 표준의 실제 적용에서는 산업 도메인과 사용 목적에 맞춘 해석이 필요하다."
 tags:

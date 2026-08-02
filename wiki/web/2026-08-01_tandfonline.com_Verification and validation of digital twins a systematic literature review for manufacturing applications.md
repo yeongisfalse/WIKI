@@ -15,7 +15,7 @@ source: "https://www.tandfonline.com/doi/full/10.1080/00207543.2024.2357741"
 site: "Taylor & Francis"
 raw_file: "[[raw/web/2026-08-01_tandfonline.com_Verification and validation of digital twins a systematic literature review for manufacturing applications]]"
 captured_at: "2026-08-01T23:29:10+09:00"
-status: draft
+status: reviewed
 confidence: high
 confidence_reason: "International Journal of Production Research의 systematic literature review이며, Taylor & Francis 공식 본문에서 검색·분류 절차와 결과를 확인했다. 데이터베이스와 저자 분류 기준에 따른 범위 제한이 있다."
 tags:

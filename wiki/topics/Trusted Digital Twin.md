@@ -1,7 +1,7 @@
 ---
 type: topic
 title: "Trusted Digital Twin"
-status: draft
+status: reviewed
 confidence: high
 confidence_reason: "제조 디지털트윈의 검증·타당화 systematic literature review와 Nature Editorial의 신뢰성 과제를 연구 지도 형태로 통합했다. 제시한 축은 연구 설계용 프레임이며 완성된 표준은 아니다."
 tags:

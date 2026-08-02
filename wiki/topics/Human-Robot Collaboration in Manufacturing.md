@@ -1,7 +1,7 @@
 ---
 type: topic
 title: "Human-Robot Collaboration in Manufacturing"
-status: draft
+status: reviewed
 confidence: high
 confidence_reason: "FELICE 자동차 조립라인 case study를 중심으로 인간-로봇 협업 디지털트윈의 시스템 구성과 연구 질문을 정리했다. 결과는 특정 조립라인과 KPI에 한정된다."
 tags:

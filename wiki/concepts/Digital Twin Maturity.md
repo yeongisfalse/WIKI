@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Digital Twin Maturity"
-status: draft
+status: reviewed
 confidence: high
 confidence_reason: "제조 디지털트윈 systematic literature review의 4R capability를 중심으로 만든 실무용 성숙도 관점이다. 4R은 해당 연구의 분류 틀이며 보편적·유일한 표준 성숙도 모델로 단정하지 않는다."
 tags:

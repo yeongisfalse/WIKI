@@ -1,7 +1,7 @@
 ---
 type: method
 title: "Discrete-Event Simulation"
-status: draft
+status: reviewed
 confidence: high
 confidence_reason: "HRC 조립선과 MaaS job-shop 사례에서 설명한 이산사건 시뮬레이션의 모델 요소와 디지털트윈 활용을 통합했다."
 tags:

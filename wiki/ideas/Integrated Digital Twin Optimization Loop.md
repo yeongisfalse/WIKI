@@ -1,7 +1,7 @@
 ---
 type: idea
 title: "Integrated Digital Twin Optimization Loop"
-status: draft
+status: reviewed
 confidence: medium
 confidence_reason: "여러 문헌의 공통 구조를 혜영님의 연구 맥락에 맞춰 일반화한 연구 아이디어 후보다. 제안 자체는 직접 검증된 결과가 아니며, 실험 설계와 적용 범위를 추가로 정해야 한다."
 tags:

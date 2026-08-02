@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Digital Twin"
-status: draft
+status: reviewed
 confidence: high
 confidence_reason: "문헌 연구, Nature Editorial, simulation-based DT 사례와 검증·타당화 문헌을 통합한 개념 페이지다. 디지털트윈의 정확한 범위와 성숙도 기준은 적용 분야와 사용 목적에 따라 달라질 수 있다."
 tags:

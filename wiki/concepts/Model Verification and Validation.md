@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Model Verification and Validation"
-status: draft
+status: reviewed
 confidence: high
 confidence_reason: "제조 디지털트윈 157편 systematic literature review의 정의·보고 현황·증거 유형을 중심으로 정리하고, Nature Editorial과 최적화 사례의 사용 맥락을 연결했다."
 tags:

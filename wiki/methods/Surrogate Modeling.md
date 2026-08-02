@@ -1,7 +1,7 @@
 ---
 type: method
 title: "Surrogate Modeling"
-status: draft
+status: reviewed
 confidence: high
 confidence_reason: "Nature Editorial이 소개한 Perspective의 surrogate model 정의와 실시간 디지털트윈·최적화의 계산 제약을 방법론 페이지로 정리했다. 특정 surrogate 알고리즘의 우월성을 주장하지 않는다."
 tags:

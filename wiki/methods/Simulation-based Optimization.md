@@ -1,7 +1,7 @@
 ---
 type: method
 title: "Simulation-based Optimization"
-status: draft
+status: reviewed
 confidence: high
 confidence_reason: "스마트 제조 문헌 연구와 두 simulation-based DT 사례에서 반복되는 시뮬레이션·what-if·최적화 연결을 방법론 관점으로 통합했다. 사례별 목적함수와 실험 조건은 일반화하지 않는다."
 tags:

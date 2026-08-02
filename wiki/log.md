@@ -63,3 +63,8 @@
 - RAMI 4.0의 “세 개의 축 (Three Axes)”과 대상·계층, 수명주기·가치 흐름, 층의 영어 원문을 병기했다.
 - 통합 디지털트윈 최적화 루프의 1~6단계에 State Collection, State Synchronization, Prediction & What-if Analysis, Optimization, Review & Execution, Monitoring & Updating을 병기했다.
 - 이후 위키 페이지에서도 핵심 기술·연구 용어를 처음 등장할 때 한국어(영어 원문)로 병기하도록 AGENTS.md와 wiki/AGENTS.md 규칙을 추가했다.
+
+## [2026-08-02] review | 오늘 작업한 페이지 상태 변경
+
+- 오늘 생성한 15개 지식 페이지와 오늘 보강한 Nature·Taylor & Francis 웹 요약 2개의 frontmatter 상태를 draft에서 reviewed로 변경했다.
+- AGENTS.md, wiki/AGENTS.md, index.md, proposals.md, log.md는 운영·기록 파일이므로 상태 변경 대상에서 제외했다.

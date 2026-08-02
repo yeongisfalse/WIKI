@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Uncertainty Quantification"
-status: draft
+status: reviewed
 confidence: high
 confidence_reason: "Nature Editorial이 디지털트윈의 핵심 과제로 제시한 불확실성 정량화와, simulation-based DT 사례의 변동·결함·실시간 데이터 문제를 연결해 정리했다."
 tags:

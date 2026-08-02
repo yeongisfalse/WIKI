@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Product Lifecycle Management"
-status: draft
+status: reviewed
 confidence: high
 confidence_reason: "스마트 제조 디지털트윈 문헌 연구가 제시한 제품 기획부터 재활용·폐기까지의 수명주기와 데이터 문제를 위키용으로 정리했다."
 tags:

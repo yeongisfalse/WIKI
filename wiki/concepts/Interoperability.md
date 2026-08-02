@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Interoperability"
-status: draft
+status: reviewed
 confidence: high
 confidence_reason: "HRC 사례의 FIWARE/FIROS·NGSIv2 연동과 MaaS 사례의 IoT platform·메시지 브로커·API 구조를 상호운용성 관점으로 통합했다."
 tags:

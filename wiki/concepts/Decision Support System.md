@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Decision Support System"
-status: draft
+status: reviewed
 confidence: high
 confidence_reason: "MaaS simulation-based DT 사례의 전략·운영 의사결정 흐름과 HRC 사례의 실시간 what-if 지원을 일반적인 의사결정 지원 시스템 개념으로 정리했다."
 tags:
