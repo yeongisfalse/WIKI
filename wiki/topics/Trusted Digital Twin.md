@@ -11,9 +11,9 @@ tags:
   - validation
   - uncertainty
 sources:
-  - "[[web/2026-08-01_tandfonline.com_Verification and validation of digital twins a systematic literature review for manufacturing applications]]"
+  - "[[papers/2026-08-01_tandfonline.com_Verification and validation of digital twins a systematic literature review for manufacturing applications]]"
   - "[[web/2026-08-01_nature.com_The increasing potential and challenges of digital twins - Nature Computational Science]]"
-  - "[[web/2026-08-01_sciencedirect.com_Transitioning trends into action A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making]]"
+  - "[[papers/2026-08-01_sciencedirect.com_Transitioning trends into action A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making]]"
 ---
 
 # Trusted Digital Twin
@@ -66,6 +66,6 @@ sources:
 
 ## 근거 자료
 
-- [[web/2026-08-01_tandfonline.com_Verification and validation of digital twins a systematic literature review for manufacturing applications]]
+- [[papers/2026-08-01_tandfonline.com_Verification and validation of digital twins a systematic literature review for manufacturing applications]]
 - [[web/2026-08-01_nature.com_The increasing potential and challenges of digital twins - Nature Computational Science]]
-- [[web/2026-08-01_sciencedirect.com_Transitioning trends into action A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making]]
+- [[papers/2026-08-01_sciencedirect.com_Transitioning trends into action A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making]]

@@ -1,5 +1,6 @@
 ---
-type: web
+type: paper
+content_type: systematic_literature_review
 title: "Verification and validation of digital twins: a systematic literature review for manufacturing applications"
 authors:
   - "Julia Bitencourt"

@@ -21,15 +21,14 @@
 
 ## 논문
 
-<!-- [[papers/페이지명]] — 한 줄 요약 -->
+- [[papers/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing]] — 스마트 제조 디지털트윈 문헌 91편을 제품 수명주기·RAMI 4.0·기능 축으로 분류한 문헌 연구.
+- [[papers/2026-08-01_sciencedirect.com_Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems]] — 이산사건 시뮬레이션과 Digital Mirror로 자동차 인간-로봇 협업 조립라인을 분석한 연구.
+- [[papers/2026-08-01_sciencedirect.com_Transitioning trends into action A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making]] — IoT·Advanced Plant Model·FlexSim·OptQuest를 연결한 MaaS job-shop 디지털트윈 아키텍처 연구.
+- [[papers/2026-08-01_tandfonline.com_Verification and validation of digital twins a systematic literature review for manufacturing applications]] — 제조 디지털트윈 157편의 구현 검증·사용 맥락 타당화와 4R capability를 분석한 체계적 문헌 연구.
 
 ## 웹 자료
 
-- [[web/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing]] — 스마트 제조 DT 문헌 91편을 PLM·RAMI 4.0·기능 축으로 분류하고 통합 아키텍처 방향을 제안한 문헌 연구.
 - [[web/2026-08-01_nature.com_The increasing potential and challenges of digital twins - Nature Computational Science]] — 여러 분야의 DT 확장 가능성과 fit-for-purpose·검증·타당화·불확실성 정량화·human-in-the-loop 과제를 종합한 Nature Editorial.
-- [[web/2026-08-01_sciencedirect.com_Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems]] — DES·Digital Mirror·orchestrator로 자동차 HRC 조립라인의 what-if 분석과 KPI 평가를 수행한 사례 연구.
-- [[web/2026-08-01_sciencedirect.com_Transitioning trends into action A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making]] — IoT·APM·FlexSim·OptQuest를 연결해 MaaS job-shop의 전략·운영 의사결정을 지원한 DT 아키텍처 연구.
-- [[web/2026-08-01_tandfonline.com_Verification and validation of digital twins a systematic literature review for manufacturing applications]] — 제조 DT 157편을 4R 성숙도와 검증·타당화 수행 여부로 분류한 systematic literature review.
 
 ## 방법론
 

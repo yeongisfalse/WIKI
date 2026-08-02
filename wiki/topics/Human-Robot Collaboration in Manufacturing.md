@@ -11,8 +11,8 @@ tags:
   - ergonomics
   - assembly
 sources:
-  - "[[web/2026-08-01_sciencedirect.com_Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems]]"
-  - "[[web/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing]]"
+  - "[[papers/2026-08-01_sciencedirect.com_Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems]]"
+  - "[[papers/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing]]"
 ---
 
 # Human-Robot Collaboration in Manufacturing
@@ -59,4 +59,4 @@ sources:
 
 ## 근거 자료
 
-- [[web/2026-08-01_sciencedirect.com_Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems]]
+- [[papers/2026-08-01_sciencedirect.com_Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems]]

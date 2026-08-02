@@ -1,5 +1,6 @@
 ---
-type: web
+type: paper
+content_type: research_article
 title: "Transitioning trends into action: A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making"
 authors:
   - "Romão Santos"

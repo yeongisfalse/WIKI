@@ -10,7 +10,7 @@ tags:
   - smart-manufacturing
   - digital-twin
 sources:
-  - "[[web/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing]]"
+  - "[[papers/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing]]"
 ---
 
 # RAMI 4.0
@@ -56,4 +56,4 @@ RAMI 4.0(Reference Architecture Model Industrie 4.0)은 산업 4.0 환경의 구
 
 ## 근거 자료
 
-- [[web/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing]]
+- [[papers/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing]]

@@ -28,7 +28,7 @@
 ## [2026-08-01] ingest | Past, present, and future research of digital twin for smart manufacturing
 
 - `raw/web/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing.md`를 변경하지 않고 처리했다.
-- `wiki/web/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing.md` 요약 페이지를 `draft`·`high` 신뢰도로 생성했다.
+- `wiki/papers/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing.md` 요약 페이지를 `draft`·`high` 신뢰도로 생성했다.
 - 기존 위키 페이지는 직접 수정하지 않았으며, 개념·주제·방법·아이디어 연결은 `wiki/proposals.md`의 P-001–P-004로 제안했다.
 - `wiki/index.md`에 웹 자료를 등록하고, 처리 상태를 `wiki/.state/ingest-state.json`에 `processed`로 기록했다.
 
@@ -63,6 +63,13 @@
 - RAMI 4.0의 “세 개의 축 (Three Axes)”과 대상·계층, 수명주기·가치 흐름, 층의 영어 원문을 병기했다.
 - 통합 디지털트윈 최적화 루프의 1~6단계에 State Collection, State Synchronization, Prediction & What-if Analysis, Optimization, Review & Execution, Monitoring & Updating을 병기했다.
 - 이후 위키 페이지에서도 핵심 기술·연구 용어를 처음 등장할 때 한국어(영어 원문)로 병기하도록 AGENTS.md와 wiki/AGENTS.md 규칙을 추가했다.
+
+## [2026-08-02] revise | 자료 유형별 폴더 분류
+
+- Web Clipper 수집 경로와 문서 유형을 분리하도록 운영 규칙을 보강했다. Web Clipper 원본은 계속 raw/web/에 보관한다.
+- OUP 문헌 리뷰, ScienceDirect 연구 논문 2개, Taylor & Francis 체계적 문헌 리뷰를 wiki/papers/로 이동하고 자료 유형을 paper로 기록했다.
+- Nature Computational Science Editorial은 학술지에 실렸지만 연구 논문이 아닌 편집 글이므로 wiki/web/에 유지했다.
+- 인덱스와 관련 내부 링크를 새 폴더 기준으로 갱신하고, Web Clipper 템플릿에 capture_type과 document_type 필드를 추가했다.
 
 ## [2026-08-02] review | 오늘 작업한 페이지 상태 변경
 

@@ -1,5 +1,6 @@
 ---
-type: web
+type: paper
+content_type: research_article
 title: "Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems"
 authors:
   - "Antonio Cimino"

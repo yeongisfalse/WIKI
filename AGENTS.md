@@ -74,6 +74,12 @@ wiki/  topics/ concepts/ papers/ web/ methods/ ideas/
 
 #### Ingest
 
+자료를 어디에서 수집했는지와 자료 자체가 무엇인지는 별도로 분류한다. Web Clipper로 수집한 원본은 수집 경로에 따라 raw/web/에 보관하지만, 위키 요약은 문서 유형에 따라 papers/ 또는 web/으로 보낸다.
+
+- 학술지 논문, 학회 논문·프로시딩, 문헌 리뷰, 체계적 문헌 리뷰는 wiki/papers/에 만든다.
+- 저널 Editorial·Commentary, 뉴스 기사, 블로그, 일반 웹 문서와 공식 안내문은 wiki/web/에 만든다.
+- 학술지에 실렸더라도 Editorial·Commentary처럼 연구 논문이 아닌 글은 wiki/web/에 남긴다.
+- 문서 유형이 불명확하면 wiki/web/에 임시로 만들고 document_type: unknown과 확인 필요를 기록한다.
 1. Web Clipper 원본은 `raw/web/`에 저장하며, 논문 PDF는 `raw/papers/`, 직접 작성한 원본 메모는 `raw/notes/`에 둔다.
 2. `raw/` 원본은 수정하지 않는다. 실제 처리 상태는 `wiki/.state/ingest-state.json`에 기록한다. macOS watcher의 로컬 상태 캐시는 알림 중복 방지용일 뿐 canonical 상태가 아니다.
 3. 로컬 watcher(권한이 허용된 경우)는 AI API를 호출하지 않고 새 자료 3개 또는 마지막 자료 추가 후 24시간 경과 조건을 확인해 macOS 알림만 보낸다.

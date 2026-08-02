@@ -1,13 +1,23 @@
 {
   "schemaVersion": "0.1.0",
-  "name": "LLM Wiki - Web Source",
+  "name": "LLM Wiki - Web Clipper Source",
   "behavior": "create",
   "noteNameFormat": "{{date|date:\"YYYY-MM-DD\"}}_{{domain|safe_name}}_{{title|safe_name}}",
   "path": "raw/web",
   "properties": [
     {
       "name": "type",
-      "value": "web",
+      "value": "source",
+      "type": "text"
+    },
+    {
+      "name": "capture_type",
+      "value": "web_clipper",
+      "type": "text"
+    },
+    {
+      "name": "document_type",
+      "value": "unknown",
       "type": "text"
     },
     {
