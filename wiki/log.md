@@ -97,3 +97,10 @@
 - 확률론은 조건부확률·베이즈·확률변수·기댓값·분산의 공통 기반으로, 확률과정은 Poisson·Markov·Queueing을 묶는 상위 지도 페이지로 정리했다.
 - 추정·가설검정 노트의 신뢰구간·p-value 해석에서 생길 수 있는 혼동을 정제본에서 보수적으로 수정하고, 수업 노트 기반 페이지는 계속 `draft`·`medium`으로 유지했다.
 - 연결·갱신은 P-014–P-019로 제안했으며, 기존 `reviewed` 페이지는 직접 수정하지 않았다.
+
+## [2026-08-02] revise | 선형대수 기초 페이지 오류 보강
+
+- `Linear Systems and Matrix Rank`에 REF·RREF의 정확한 구분, 행 연산별 행렬식 변화, rank에 따른 해의 개수, underdetermined·overdetermined와 차원 정리를 보강했다.
+- `Vector Spaces and Linear Transformations`에 비동차 해집합의 affine 구조와 feasible region이 일반적으로 부분공간이 아니라는 점을 추가했다.
+- `Eigenvalues and Quadratic Forms`에 Positive Definite 이차함수의 유일한 전역최적해 정리와 정의역·제약조건의 적용 범위를 명시했다.
+- 로컬 Vault의 원본 노트는 수정하지 않았으며, HyeWiki 페이지는 검토 가능한 `draft` 상태를 유지했다.

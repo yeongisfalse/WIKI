@@ -53,9 +53,9 @@
 
 ## 선형대수 기초
 
-- [[concepts/Vector Spaces and Linear Transformations|벡터공간과 선형변환]] — 선형결합·span·독립·기저·차원과 kernel·range를 통합한 구조.
-- [[concepts/Linear Systems and Matrix Rank|선형시스템과 행렬 rank]] — `Ax=b`, RREF·rank·null space·가역성·최소제곱의 관계.
-- [[concepts/Eigenvalues and Quadratic Forms|고유값과 이차형식]] — 고유방향·대각화·직교성·스펙트럼 정리와 Hessian·부호성의 연결.
+- [[concepts/Vector Spaces and Linear Transformations|벡터공간과 선형변환]] — 선형결합·span·독립·기저·차원, affine 해집합·feasible region과 kernel·range를 통합한 구조.
+- [[concepts/Linear Systems and Matrix Rank|선형시스템과 행렬 rank]] — `Ax=b`, REF/RREF·rank·null space·행렬식 행 연산·가역성·최소제곱의 관계.
+- [[concepts/Eigenvalues and Quadratic Forms|고유값과 이차형식]] — 고유방향·대각화·직교성·스펙트럼 정리와 Hessian·부호성·이차 최적화 조건의 연결.
 
 ## 연구 아이디어
 
