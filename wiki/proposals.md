@@ -71,5 +71,47 @@ AI가 기존 위키 페이지에 연결·갱신을 제안하고, 혜영님의 �
 
 ## 현재 상태
 
-- pending 제안: 없음
+- pending 제안: P-009–P-013
 - 마지막 일괄 승인·반영일: 2026-08-02
+
+## 대기 중 제안
+
+### P-009 | 대기행렬 이론과 DES·최적화 연결
+
+- 상태: pending
+- 반영 대상: `wiki/methods/Discrete-Event Simulation.md`, `wiki/methods/Simulation-based Optimization.md`, `wiki/topics/Human-Robot Collaboration in Manufacturing.md`
+- 제안 내용: `Queueing Theory`의 `ρ`, `L`, `W`, throughput, 변동성·병목 관점을 제조 DES와 후보 의사결정 KPI의 연결로 추가한다.
+- 근거: `/Users/Hyeyeong/Vault/04_Industrial Engineering/Stochastic Process/Queuing Theory.md`에서 컴파일한 초안.
+- 주의: 수식 적용 조건과 특정 사례의 일반화 범위를 재검토한 뒤 반영한다.
+
+### P-010 | 포아송 과정·마르코프 체인과 확률 입력 연결
+
+- 상태: pending
+- 반영 대상: `wiki/methods/Discrete-Event Simulation.md`, `wiki/concepts/Uncertainty Quantification.md`
+- 제안 내용: 사건 도착·설비 상태 전이의 확률모델 후보로 `Poisson Process`와 `Markov Chain`을 연결하고, 독립성·정상성·전이확률 가정 확인 항목을 추가한다.
+- 근거: `/Users/Hyeyeong/Vault/04_Industrial Engineering/Stochastic Process/Poisson Process.md`, `/Users/Hyeyeong/Vault/04_Industrial Engineering/Stochastic Process/Discrete Time Markov Chain(DTMC).md`에서 컴파일한 초안.
+- 주의: 실제 제조 데이터가 포아송·마르코프 가정을 만족한다고 단정하지 않는다.
+
+### P-011 | SimPy와 이산사건 시뮬레이션 구현 연결
+
+- 상태: pending
+- 반영 대상: `wiki/methods/Discrete-Event Simulation.md`
+- 제안 내용: `SimPy`를 DES 개념을 소규모 실행 모델로 검증하는 구현 도구로 연결하고, Resource·Container·Process·Event 대응표를 추가한다.
+- 근거: 기존 로컬 Vault의 SimPy 입문·전기차 충전·주유소 실습 노트에서 컴파일한 초안.
+- 주의: SimPy 버전과 API는 공식 문서로 재확인하고, 실습 코드를 연구 모델의 타당화 증거로 해석하지 않는다.
+
+### P-012 | 볼록 최적화와 시뮬레이션 기반 최적화의 구조 비교
+
+- 상태: pending
+- 반영 대상: `wiki/methods/Simulation-based Optimization.md`, `wiki/methods/Surrogate Modeling.md`
+- 제안 내용: 해석 가능한 볼록 구조와 확률·블랙박스·계산비용을 갖는 시뮬레이션 목적함수의 차이를 명시하고, 알고리즘 선택 전 문제 구조 확인 항목을 추가한다.
+- 근거: `/Users/Hyeyeong/Vault/03_AI/04_Optimization/Math Foundation (1).md`에서 컴파일한 초안.
+- 주의: `gradient`, KKT, 강한 쌍대성, 수치 안정성은 별도 검증·보강이 필요하다.
+
+### P-013 | 확률분포와 불확실성 정량화 연결
+
+- 상태: pending
+- 반영 대상: `wiki/concepts/Uncertainty Quantification.md`, `wiki/methods/Discrete-Event Simulation.md`
+- 제안 내용: PMF·PDF·CDF, 결합·조건부 분포, 독립성 가정을 시뮬레이션 입력과 불확실성 원천을 정의하는 기초로 연결한다.
+- 근거: `/Users/Hyeyeong/Vault/01_Mathematics/01_Statistics/Probability Distribution.md`에서 컴파일한 초안.
+- 주의: 분포 선택은 원자료·적합도·꼬리·시간상관과 함께 검토해야 한다.

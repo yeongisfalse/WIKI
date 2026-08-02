@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "source_vault": "/Users/Hyeyeong/Vault/",
+  "sync_mode": "manual",
+  "policy": "원본 Vault는 읽기 전용으로 보존하고, 연구 관련 내용만 HyeWiki에 독립 정제본으로 컴파일한다.",
+  "imported_at": "2026-08-02T16:05:36+09:00",
+  "entries": {
+    "/Users/Hyeyeong/Vault/03_AI/01_Language/01_Python/Implementation_Lab/SimPy Introduction.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/methods/SimPy.md"],
+      "source_modified_at": "2026-02-20T16:41:57+09:00",
+      "content_hash": "sha256:fe3f1ff00c071cf5cd27ff65f5e84f0edd40c2d34238a280ae5461113ae1c031"
+    },
+    "/Users/Hyeyeong/Vault/03_AI/01_Language/01_Python/Implementation_Lab/SimPy - Gas Station Process.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/methods/SimPy.md"],
+      "source_modified_at": "2026-02-20T18:18:47+09:00",
+      "content_hash": "sha256:ab5f573b44cb583690d5c64656ea55d172743d6029310e1400eb418b85fa835c"
+    },
+    "/Users/Hyeyeong/Vault/03_AI/01_Language/01_Python/Implementation_Lab/SimPy - Car charging process.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/methods/SimPy.md"],
+      "source_modified_at": "2026-02-20T16:41:58+09:00",
+      "content_hash": "sha256:42d70ee99bebd729f14fd07090ff9de1d05979ebdab787c07be31c3c196b6d09"
+    },
+    "/Users/Hyeyeong/Vault/04_Industrial Engineering/Stochastic Process/Queuing Theory.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Queueing Theory.md"],
+      "source_modified_at": "2026-05-10T21:00:42+09:00",
+      "content_hash": "sha256:498e7f0e669adbe62c9433177b617aafd1667c07c7dd108c3e77adf3ad022374"
+    },
+    "/Users/Hyeyeong/Vault/04_Industrial Engineering/Stochastic Process/Poisson Process.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Poisson Process.md"],
+      "source_modified_at": "2026-05-21T19:21:03+09:00",
+      "content_hash": "sha256:9d256e74803148eee7edda8db4b8b3e7fdc1d3d4141f05a2496e67085750b418"
+    },
+    "/Users/Hyeyeong/Vault/04_Industrial Engineering/Stochastic Process/Discrete Time Markov Chain(DTMC).md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Markov Chain.md"],
+      "source_modified_at": "2026-05-11T19:21:50+09:00",
+      "content_hash": "sha256:177feacb45e04f6bbd63ed2379905bd1ed3fedc39357c01e1fdcf67cd2c2a30c"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/01_Statistics/Probability Distribution.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Probability Distribution.md"],
+      "source_modified_at": "2026-03-23T14:37:29+09:00",
+      "content_hash": "sha256:106ee83ba0b959a0b8bbac335ca3716da2b46246c0c9cc95402aa06f7b44d1ba"
+    },
+    "/Users/Hyeyeong/Vault/03_AI/04_Optimization/Math Foundation (1).md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/methods/Convex Optimization.md"],
+      "source_modified_at": "2026-04-19T22:30:40+09:00",
+      "content_hash": "sha256:9d709a23fc7e3e6a39e66561871dcd824034b9b3b893c0512aef7ee714b96d70"
+    }
+  }
+}

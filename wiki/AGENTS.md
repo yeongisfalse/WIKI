@@ -11,3 +11,12 @@
 - 처리 상태는 `.state/ingest-state.json`에서 `queued`, `processing`, `processed`, `failed`로 관리하며 원본에는 기록하지 않는다.
 - 모든 위키 페이지는 `index.md`에 한 줄 요약과 함께 등록하고, 중요한 변경은 `log.md`에 남긴다. 제안·상태 파일은 인덱스에서 제외한다.
 - 페이지 사이의 연결이 단순 요약보다 중요하다. 관련 근거·개념·방법·아이디어를 Obsidian 링크로 연결한다.
+
+## 외부 학습 Vault 연계
+
+- 기존 학습 Vault `/Users/Hyeyeong/Vault/`는 사람이 관리하는 원본으로 취급하며 AI가 수정·이동·삭제하지 않는다.
+- 수업 필기·실습·프로젝트 전체를 복사하지 않고, 연구에 재사용할 가치가 확인된 노트만 HyeWiki에 독립적인 정제본으로 컴파일한다.
+- 외부 Vault의 Obsidian 내부 링크·첨부파일에 의존하지 않는다. 정제본은 자체적으로 읽혀야 하며, 필요한 경우 `source_vault_paths`와 원본 학습 노트 섹션에 로컬 원본 경로를 기록한다.
+- 외부 Vault 내용의 편입은 자동 동기화하지 않는다. 원본이 바뀌면 `wiki/.state/vault-import-state.json`의 해시와 각 페이지의 `source_vault_modified_at`을 비교해 수동으로 재검토한다.
+- 수업 노트 기반 페이지는 외부 문헌이나 데이터로 재검증하기 전까지 기본적으로 `status: draft`, `confidence: medium`으로 둔다. 수식 조건·소프트웨어 버전·실습 결과를 확인하지 않았으면 `확인 필요`를 남긴다.
+- 새 페이지가 기존 `reviewed`·`stable` 페이지와 연결되더라도, 기존 페이지에 역방향 링크를 추가하거나 내용을 갱신하는 것은 `proposals.md`에서 승인받은 뒤 수행한다.

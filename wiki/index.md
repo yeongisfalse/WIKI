@@ -35,6 +35,15 @@
 - [[methods/Discrete-Event Simulation|이산사건 시뮬레이션]] — 도착·완료·고장 같은 사건 시점에 제조 시스템 상태를 갱신하는 시뮬레이션 방법.
 - [[methods/Simulation-based Optimization|시뮬레이션 기반 최적화]] — 시뮬레이션으로 후보 의사결정과 불확실성을 반복 평가해 대안을 찾는 방법.
 - [[methods/Surrogate Modeling|surrogate model]] — 계산 비용이 큰 모델을 빠르게 근사해 실시간 탐색과 최적화를 돕는 방법.
+- [[methods/SimPy|SimPy]] — Python에서 프로세스·이벤트·공유 자원을 사용해 이산사건 시뮬레이션을 구현하는 도구.
+- [[methods/Convex Optimization|볼록 최적화]] — 목적함수·제약의 볼록 구조, 미분·헤시안·쌍대성을 이용해 최적화 문제를 분석하는 방법론.
+
+## 연구 기초 개념
+
+- [[concepts/Probability Distribution|확률분포]] — PMF·PDF·CDF와 결합·주변·조건부 분포를 통해 확률적 입력을 표현하는 기초 개념.
+- [[concepts/Poisson Process|포아송 과정]] — 시간에 따른 사건 도착을 계수하는 확률과정과 병합·thinning·비균일 확장을 정리한 개념.
+- [[concepts/Queueing Theory|대기행렬 이론]] — 도착률·서비스율·부하·변동성이 대기시간·재공품·처리량에 미치는 영향을 분석하는 개념.
+- [[concepts/Markov Chain|마르코프 체인]] — 현재 상태만으로 다음 상태를 표현하는 전이확률 기반 확률과정.
 
 ## 연구 아이디어
 

@@ -75,3 +75,11 @@
 
 - 오늘 생성한 15개 지식 페이지와 오늘 보강한 Nature·Taylor & Francis 웹 요약 2개의 frontmatter 상태를 draft에서 reviewed로 변경했다.
 - AGENTS.md, wiki/AGENTS.md, index.md, proposals.md, log.md는 운영·기록 파일이므로 상태 변경 대상에서 제외했다.
+
+## [2026-08-02] ingest | 기존 로컬 Vault의 연구 기초 노트 6개
+
+- 기존 `/Users/Hyeyeong/Vault/`를 읽기 전용으로 점검하고, 수업·실습 전체가 아니라 연구와 직접 연결되는 6개 축만 선별했다.
+- `SimPy`, `Queueing Theory`, `Poisson Process`, `Markov Chain`, `Probability Distribution`, `Convex Optimization`의 독립적인 HyeWiki 초안 페이지를 생성했다.
+- 로컬 Vault 원본과 첨부파일은 수정·이동·복사하지 않았다. 각 페이지에 원본 경로와 원본 수정시각을 기록하고, 연구용으로 바로 쓰기 전 외부 문헌·데이터 재검증이 필요함을 명시했다.
+- 페이지는 수업 노트 기반이므로 `draft`·`medium`으로 시작했다. 기존 reviewed 페이지에 역방향 연결을 추가하는 변경은 P-009–P-013으로 제안했다.
+- 외부 학습 Vault의 수동 편입 규칙을 `wiki/AGENTS.md`에 추가하고, 변경 추적용 `wiki/.state/vault-import-state.json`을 기록했다.
