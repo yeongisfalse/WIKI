@@ -12,7 +12,7 @@
     <key>EnvironmentVariables</key>
     <dict>
         <key>LLM_WIKI_ROOT</key>
-        <string>/Users/Hyeyeong/Library/Mobile Documents/iCloud~md~obsidian/Documents/HyeWiki</string>
+        <string>/Users/Hyeyeong/HyeWIKI</string>
         <key>LLM_WIKI_STATE</key>
         <string>/Users/Hyeyeong/Library/Application Support/LLM Wiki/ingest-state.json</string>
     </dict>
