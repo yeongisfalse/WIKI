@@ -57,3 +57,9 @@
 - 여러 제안이 같은 페이지를 대상으로 한 경우 기존 내용을 덮어쓰지 않고 통합했다. 특히 P-005는 Digital Twin, P-007은 Simulation-based Optimization과 Integrated Digital Twin Optimization Loop에 연결해 반영했다.
 - P-004의 통합 최적화 루프는 확정된 사실이 아니라 혜영님의 연구 맥락에 맞춘 medium 신뢰도의 연구 아이디어 후보로 표시했다.
 - 모든 새 페이지를 index.md에 등록하고, 원본 raw/는 변경하지 않았다.
+
+## [2026-08-02] revise | 핵심 용어 영어 원문 병기
+
+- RAMI 4.0의 “세 개의 축 (Three Axes)”과 대상·계층, 수명주기·가치 흐름, 층의 영어 원문을 병기했다.
+- 통합 디지털트윈 최적화 루프의 1~6단계에 State Collection, State Synchronization, Prediction & What-if Analysis, Optimization, Review & Execution, Monitoring & Updating을 병기했다.
+- 이후 위키 페이지에서도 핵심 기술·연구 용어를 처음 등장할 때 한국어(영어 원문)로 병기하도록 AGENTS.md와 wiki/AGENTS.md 규칙을 추가했다.
