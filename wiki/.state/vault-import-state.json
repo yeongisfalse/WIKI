@@ -3,7 +3,7 @@
   "source_vault": "/Users/Hyeyeong/Vault/",
   "sync_mode": "manual",
   "policy": "원본 Vault는 읽기 전용으로 보존하고, 연구 관련 내용만 HyeWiki에 독립 정제본으로 컴파일한다.",
-  "imported_at": "2026-08-02T16:05:36+09:00",
+  "imported_at": "2026-08-02T16:22:23+09:00",
   "entries": {
     "/Users/Hyeyeong/Vault/03_AI/01_Language/01_Python/Implementation_Lab/SimPy Introduction.md": {
       "status": "compiled",
@@ -25,19 +25,19 @@
     },
     "/Users/Hyeyeong/Vault/04_Industrial Engineering/Stochastic Process/Queuing Theory.md": {
       "status": "compiled",
-      "wiki_pages": ["wiki/concepts/Queueing Theory.md"],
+      "wiki_pages": ["wiki/concepts/Queueing Theory.md", "wiki/concepts/Stochastic Process.md"],
       "source_modified_at": "2026-05-10T21:00:42+09:00",
       "content_hash": "sha256:498e7f0e669adbe62c9433177b617aafd1667c07c7dd108c3e77adf3ad022374"
     },
     "/Users/Hyeyeong/Vault/04_Industrial Engineering/Stochastic Process/Poisson Process.md": {
       "status": "compiled",
-      "wiki_pages": ["wiki/concepts/Poisson Process.md"],
+      "wiki_pages": ["wiki/concepts/Poisson Process.md", "wiki/concepts/Stochastic Process.md"],
       "source_modified_at": "2026-05-21T19:21:03+09:00",
       "content_hash": "sha256:9d256e74803148eee7edda8db4b8b3e7fdc1d3d4141f05a2496e67085750b418"
     },
     "/Users/Hyeyeong/Vault/04_Industrial Engineering/Stochastic Process/Discrete Time Markov Chain(DTMC).md": {
       "status": "compiled",
-      "wiki_pages": ["wiki/concepts/Markov Chain.md"],
+      "wiki_pages": ["wiki/concepts/Markov Chain.md", "wiki/concepts/Stochastic Process.md"],
       "source_modified_at": "2026-05-11T19:21:50+09:00",
       "content_hash": "sha256:177feacb45e04f6bbd63ed2379905bd1ed3fedc39357c01e1fdcf67cd2c2a30c"
     },
@@ -52,6 +52,156 @@
       "wiki_pages": ["wiki/methods/Convex Optimization.md"],
       "source_modified_at": "2026-04-19T22:30:40+09:00",
       "content_hash": "sha256:9d709a23fc7e3e6a39e66561871dcd824034b9b3b893c0512aef7ee714b96d70"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/01_Statistics/Probability Theory & Random Variables.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Probability Theory.md"],
+      "source_modified_at": "2026-03-23T14:40:37+09:00",
+      "content_hash": "sha256:f171e604eb9542fe68173e8c225dff6e6e814d7e8c8f45f5c6acd7592832ba5c"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/01_Statistics/확률.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Probability Theory.md"],
+      "source_modified_at": "2026-01-20T23:41:00+09:00",
+      "content_hash": "sha256:970b02ea776625397edf747da85a5b59da4b164b8a7146eaef4ff73c613c8ffe"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/01_Statistics/확률변수와 확률함수.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Probability Theory.md"],
+      "source_modified_at": "2026-03-18T17:52:06+09:00",
+      "content_hash": "sha256:59a78b2c879ed456513ff972c9ae70657fe24971c0ec91210e577002a167487c"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/01_Statistics/확률 부등식.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Probability Inequalities.md"],
+      "source_modified_at": "2026-03-12T20:25:50+09:00",
+      "content_hash": "sha256:981a63553e491b7509c58ec1a923062ecc84b74dbaddd54d9107e45ace2c2ed5"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/01_Statistics/추정.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Statistical Inference.md"],
+      "source_modified_at": "2026-01-20T14:41:00+09:00",
+      "content_hash": "sha256:1097283abf43178683a0a734455268f64ea61bb8938b5a12b1d65561ef42ab54"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/01_Statistics/가설검정.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Statistical Inference.md"],
+      "source_modified_at": "2026-01-20T14:41:00+09:00",
+      "content_hash": "sha256:cf1ab523f86d44790516539049cffc71feaa1bde1b174c6069a4d9be23af72db"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/01_Statistics/두 모집단의 추론과 검정.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Statistical Inference.md"],
+      "source_modified_at": "2026-01-20T14:41:00+09:00",
+      "content_hash": "sha256:df1d6b563135020286858f26da6623c794b8f83b380e41cd797e209a4949c8e4"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/01_Statistics/Descriptive Statistics.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Descriptive Statistics.md"],
+      "source_modified_at": "2026-03-23T14:38:29+09:00",
+      "content_hash": "sha256:efebe75106efdd80f6e21ba7600053f689a67cf59d6312786b676b12368ca9d6"
+    },
+    "/Users/Hyeyeong/Vault/04_Industrial Engineering/Stochastic Process/Newsvendor Model.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/methods/Newsvendor Model.md"],
+      "source_modified_at": "2026-05-11T19:22:02+09:00",
+      "content_hash": "sha256:083bdb81b47517e27097618a07c60369b8e130f87a72393ecee0c436047438e2"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/02_Linear Algebra/Linear Systems.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Linear Systems and Matrix Rank.md"],
+      "source_modified_at": "2026-02-02T23:15:39+09:00",
+      "content_hash": "sha256:124615a4a3268d62030472dadfda1cb07334ca85038f65ebaff5e014a2102e29"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/02_Linear Algebra/Solving Linear Systems.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Linear Systems and Matrix Rank.md"],
+      "source_modified_at": "2026-02-02T23:22:55+09:00",
+      "content_hash": "sha256:43e091517d55168203561ee0ecbfff6a2311708462d1d704dedd053ca025a154"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/02_Linear Algebra/Row Space & Column Space.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Linear Systems and Matrix Rank.md"],
+      "source_modified_at": "2026-03-03T12:59:55+09:00",
+      "content_hash": "sha256:a97a130b46a1fb847f6850b564ad923ebe3d295db2a03f84713f57c2f1be1673"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/02_Linear Algebra/Subspace & Null space.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Linear Systems and Matrix Rank.md"],
+      "source_modified_at": "2026-02-27T16:21:38+09:00",
+      "content_hash": "sha256:781bb71e50f19b06dd5fc1a2b862ddfaab99c955dbe479b3be847d3e58a49882"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/02_Linear Algebra/Non-Singular Matrix.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Linear Systems and Matrix Rank.md"],
+      "source_modified_at": "2026-03-05T13:12:44+09:00",
+      "content_hash": "sha256:2238da25b110c90ea64873dd354be1a67fd082d7e7ee909d0e7d55e269ef1b13"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/02_Linear Algebra/Determinants.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Linear Systems and Matrix Rank.md"],
+      "source_modified_at": "2026-02-20T20:14:35+09:00",
+      "content_hash": "sha256:a54c94f24d5906ab5553ddda5db8d728e35a3cec6bb1c3d4202b0e1753cb913f"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/02_Linear Algebra/Vector Space.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Vector Spaces and Linear Transformations.md"],
+      "source_modified_at": "2026-02-27T16:17:50+09:00",
+      "content_hash": "sha256:b0ea63f1bcfe24af5536e6a831950ebea0481e318ca51b397517adf274474b10"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/02_Linear Algebra/Linear combination & Span.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Vector Spaces and Linear Transformations.md"],
+      "source_modified_at": "2026-02-20T19:04:14+09:00",
+      "content_hash": "sha256:d3d56ba20d3530996b50c18e834905b3c6018ed7a5a235f1f30991c6d0814609"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/02_Linear Algebra/Linear Independence.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Vector Spaces and Linear Transformations.md"],
+      "source_modified_at": "2026-02-02T23:22:55+09:00",
+      "content_hash": "sha256:677bc34cd5e1363d1f12569aa4e1bef0d7925ed8043769df263283bb0efa9b85"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/02_Linear Algebra/Basis & Dimension.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Vector Spaces and Linear Transformations.md"],
+      "source_modified_at": "2026-03-03T16:17:37+09:00",
+      "content_hash": "sha256:3edf15a1ea5a45a41a182ece9fcf354546ccc53c637a8c338dae3a3391fa6c8b"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/02_Linear Algebra/Linear Transformation.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Vector Spaces and Linear Transformations.md"],
+      "source_modified_at": "2026-03-26T14:26:11+09:00",
+      "content_hash": "sha256:9331e69aa7da1cfcba91816638a2570367bf3a4d740653b24e4ee3651deebe2a"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/02_Linear Algebra/Eigenvector & Eigenvalue.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Eigenvalues and Quadratic Forms.md"],
+      "source_modified_at": "2026-03-26T12:51:03+09:00",
+      "content_hash": "sha256:d1bc59f89d08c9e1c7b23bb337bffce96ac23c1410a118bd7b141f4f30b337c9"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/02_Linear Algebra/Diagonalization.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Eigenvalues and Quadratic Forms.md"],
+      "source_modified_at": "2026-03-26T18:54:45+09:00",
+      "content_hash": "sha256:67d740a928d7e0c1ed7a8b8dfb703175113421be92fdbba73fc65668e3648c31"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/02_Linear Algebra/Quadratic Form.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Eigenvalues and Quadratic Forms.md"],
+      "source_modified_at": "2026-03-27T00:35:51+09:00",
+      "content_hash": "sha256:c88a07f599ff43e6c2c2f7a6aa72ac62a0ebc39d7e467d8500471e670d729f7a"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/02_Linear Algebra/Orthogonal Vectors & Matrix.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Eigenvalues and Quadratic Forms.md"],
+      "source_modified_at": "2026-03-26T19:57:47+09:00",
+      "content_hash": "sha256:adfbdae6f91affce08ccb493756a0dd112d4038c7c7a9a20bb8bda75ca4a17a5"
+    },
+    "/Users/Hyeyeong/Vault/01_Mathematics/02_Linear Algebra/Similarity.md": {
+      "status": "compiled",
+      "wiki_pages": ["wiki/concepts/Eigenvalues and Quadratic Forms.md"],
+      "source_modified_at": "2026-03-26T13:16:34+09:00",
+      "content_hash": "sha256:049fae7a39cc4704a68aae0fea011aac79eba0adc7a6bcc2b6cb56f3531fcff9"
     }
   }
 }

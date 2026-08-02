@@ -37,13 +37,25 @@
 - [[methods/Surrogate Modeling|surrogate model]] — 계산 비용이 큰 모델을 빠르게 근사해 실시간 탐색과 최적화를 돕는 방법.
 - [[methods/SimPy|SimPy]] — Python에서 프로세스·이벤트·공유 자원을 사용해 이산사건 시뮬레이션을 구현하는 도구.
 - [[methods/Convex Optimization|볼록 최적화]] — 목적함수·제약의 볼록 구조, 미분·헤시안·쌍대성을 이용해 최적화 문제를 분석하는 방법론.
+- [[methods/Newsvendor Model|Newsvendor Model]] — 불확실한 수요와 초과·부족 비용을 이용해 일기간 주문량과 `(S,s)` 정책을 결정하는 확률적 재고 모형.
 
-## 연구 기초 개념
+## 확률·통계·확률과정 기초
 
+- [[concepts/Probability Theory|확률론]] — 사건·조건부확률·베이즈 정리·확률변수·기댓값·분산을 묶은 공통 기반.
 - [[concepts/Probability Distribution|확률분포]] — PMF·PDF·CDF와 결합·주변·조건부 분포를 통해 확률적 입력을 표현하는 기초 개념.
+- [[concepts/Descriptive Statistics|기술통계]] — 측정척도·중심·산포·분위수·IQR·표준화를 통해 관측자료를 탐색하는 기초 개념.
+- [[concepts/Statistical Inference|통계적 추론]] — 표본으로부터 모수·차이·가설을 추론하는 추정·신뢰구간·검정의 구조.
+- [[concepts/Probability Inequalities|확률 부등식]] — 분포를 정확히 몰라도 평균·분산으로 확률의 상한·하한을 제한하는 도구.
+- [[concepts/Stochastic Process|확률과정]] — 시간에 따른 확률변수들의 구조와 Poisson·Markov·Queueing 모델의 공통 틀.
 - [[concepts/Poisson Process|포아송 과정]] — 시간에 따른 사건 도착을 계수하는 확률과정과 병합·thinning·비균일 확장을 정리한 개념.
 - [[concepts/Queueing Theory|대기행렬 이론]] — 도착률·서비스율·부하·변동성이 대기시간·재공품·처리량에 미치는 영향을 분석하는 개념.
 - [[concepts/Markov Chain|마르코프 체인]] — 현재 상태만으로 다음 상태를 표현하는 전이확률 기반 확률과정.
+
+## 선형대수 기초
+
+- [[concepts/Vector Spaces and Linear Transformations|벡터공간과 선형변환]] — 선형결합·span·독립·기저·차원과 kernel·range를 통합한 구조.
+- [[concepts/Linear Systems and Matrix Rank|선형시스템과 행렬 rank]] — `Ax=b`, RREF·rank·null space·가역성·최소제곱의 관계.
+- [[concepts/Eigenvalues and Quadratic Forms|고유값과 이차형식]] — 고유방향·대각화·직교성·스펙트럼 정리와 Hessian·부호성의 연결.
 
 ## 연구 아이디어
 

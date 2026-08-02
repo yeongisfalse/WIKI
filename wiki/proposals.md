@@ -71,7 +71,7 @@ AI가 기존 위키 페이지에 연결·갱신을 제안하고, 혜영님의 �
 
 ## 현재 상태
 
-- pending 제안: P-009–P-013
+- pending 제안: P-009–P-019
 - 마지막 일괄 승인·반영일: 2026-08-02
 
 ## 대기 중 제안
@@ -115,3 +115,51 @@ AI가 기존 위키 페이지에 연결·갱신을 제안하고, 혜영님의 �
 - 제안 내용: PMF·PDF·CDF, 결합·조건부 분포, 독립성 가정을 시뮬레이션 입력과 불확실성 원천을 정의하는 기초로 연결한다.
 - 근거: `/Users/Hyeyeong/Vault/01_Mathematics/01_Statistics/Probability Distribution.md`에서 컴파일한 초안.
 - 주의: 분포 선택은 원자료·적합도·꼬리·시간상관과 함께 검토해야 한다.
+
+### P-014 | 확률론 기반 페이지와 확률 모델 연결
+
+- 상태: pending
+- 반영 대상: `wiki/concepts/Probability Distribution.md`, `wiki/concepts/Uncertainty Quantification.md`, `wiki/concepts/Poisson Process.md`, `wiki/concepts/Statistical Inference.md`
+- 제안 내용: 사건·조건부확률·베이즈 정리·확률변수·기댓값·분산을 확률분포·확률과정·추론의 공통 전제와 연결한다.
+- 근거: 기존 Vault의 `Probability Theory & Random Variables.md`, `확률.md`, `확률변수와 확률함수.md`에서 컴파일한 초안.
+- 주의: 원본 노트의 일부 수식·이미지는 정제본에서 제외했으며, 확률모델의 독립성·기댓값 존재 조건을 확인해야 한다.
+
+### P-015 | 확률과정 상위 지도와 DES 연결
+
+- 상태: pending
+- 반영 대상: `wiki/methods/Discrete-Event Simulation.md`, `wiki/concepts/Uncertainty Quantification.md`
+- 제안 내용: `Stochastic Process`를 Poisson·Markov·Queueing 모델을 묶는 상위 개념으로 연결하고, DES의 입력·상태·sample path·반복 실행을 정리한다.
+- 근거: 기존 Vault의 Poisson Process, DTMC, Queueing Theory 노트에서 컴파일한 초안.
+- 주의: 포아송·마르코프 가정이 실제 데이터에 성립한다고 일반화하지 않는다.
+
+### P-016 | 통계적 추론과 모델 검증·파라미터 추정 연결
+
+- 상태: pending
+- 반영 대상: `wiki/concepts/Model Verification and Validation.md`, `wiki/concepts/Uncertainty Quantification.md`, `wiki/methods/Simulation-based Optimization.md`
+- 제안 내용: 추정량·표준오차·신뢰구간·가설검정·검정력을 시뮬레이션 입력 파라미터 추정과 모델 출력 비교의 근거로 연결한다.
+- 근거: 기존 Vault의 추정·가설검정·두 모집단 추론 노트에서 컴파일한 초안.
+- 주의: p-value를 모델 타당화의 단일 기준으로 사용하지 않으며, 사용 맥락·효과크기·오차·시간상관을 함께 평가한다.
+
+### P-017 | 확률 부등식과 불확실성 보장 연결
+
+- 상태: pending
+- 반영 대상: `wiki/concepts/Uncertainty Quantification.md`, `wiki/methods/Simulation-based Optimization.md`
+- 제안 내용: Markov·Chebyshev 부등식을 분포 가정이 약할 때 사용하는 확률 상한·하한과 보수적 위험 기준으로 연결한다.
+- 근거: `/Users/Hyeyeong/Vault/01_Mathematics/01_Statistics/확률 부등식.md`에서 컴파일한 초안.
+- 주의: 부등식의 보장과 분포 기반 확률 추정·신뢰구간을 구분한다.
+
+### P-018 | 기술통계와 데이터 품질·분포 선택 연결
+
+- 상태: pending
+- 반영 대상: `wiki/concepts/Uncertainty Quantification.md`, `wiki/methods/Discrete-Event Simulation.md`
+- 제안 내용: 측정척도·중심·산포·분위수·IQR·왜도·표준화를 시뮬레이션 입력 데이터의 탐색과 분포 선택 전 점검으로 연결한다.
+- 근거: `/Users/Hyeyeong/Vault/01_Mathematics/01_Statistics/Descriptive Statistics.md`에서 컴파일한 초안.
+- 주의: 이상치 규칙과 기술통계만으로 데이터 생성분포를 확정하지 않는다.
+
+### P-019 | Newsvendor와 확률적 의사결정 연결
+
+- 상태: pending
+- 반영 대상: `wiki/methods/Simulation-based Optimization.md`, `wiki/concepts/Decision Support System.md`
+- 제안 내용: critical ratio·overage/underage cost·fixed cost threshold를 불확실한 수요에 대한 확률적 의사결정과 시뮬레이션 기반 정책 평가의 기초 사례로 연결한다.
+- 근거: `/Users/Hyeyeong/Vault/04_Industrial Engineering/Stochastic Process/Newsvendor Model.md`에서 컴파일한 초안.
+- 주의: 단일 기간·즉시 보충·수요분포가 알려졌다는 기본 모형의 결과를 실제 공급망에 직접 일반화하지 않는다.
