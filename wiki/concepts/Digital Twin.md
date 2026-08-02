@@ -10,10 +10,10 @@ tags:
   - simulation
   - decision-support
 sources:
-  - "[[papers/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing]]"
+  - "[[papers/Past, present, and future research of digital twin for smart manufacturing (2021)]]"
   - "[[web/The increasing potential and challenges of digital twins (2024)]]"
-  - "[[papers/2026-08-01_sciencedirect.com_Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems]]"
-  - "[[papers/2026-08-01_sciencedirect.com_Transitioning trends into action A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making]]"
+  - "[[papers/Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems (2024)]]"
+  - "[[papers/Transitioning trends into action - A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making (2024)]]"
 ---
 
 # Digital Twin
@@ -38,13 +38,13 @@ sources:
 
 ## 사용 목적에 따른 기능
 
-| 기능 | 질문 | 제조 연구 예시 |
-| --- | --- | --- |
-| 표현·모니터링 | 지금 시스템은 어떤 상태인가? | 설비, 작업자, 공정, 재공품 상태의 실시간 표현 |
-| 예측 | 앞으로 어떻게 될 것인가? | 고장, 병목, 생산시간, 품질 변화 예측 |
-| what-if 분석 | 다른 선택을 하면 어떻게 되는가? | 레이아웃, 작업 배치, 자원 수, 작업 순서 비교 |
-| 최적화·의사결정 | 어떤 선택이 목적에 가장 적합한가? | makespan, 생산성, 활용률, ergonomics를 고려한 계획 |
-| 제어·되먹임 | 결정 결과를 실제 시스템에 어떻게 반영할 것인가? | 생산계획, 작업 할당, 공정 파라미터의 갱신 |
+| 기능         | 질문                          | 제조 연구 예시                               |
+| ---------- | --------------------------- | -------------------------------------- |
+| 표현·모니터링    | 지금 시스템은 어떤 상태인가?            | 설비, 작업자, 공정, 재공품 상태의 실시간 표현            |
+| 예측         | 앞으로 어떻게 될 것인가?              | 고장, 병목, 생산시간, 품질 변화 예측                 |
+| what-if 분석 | 다른 선택을 하면 어떻게 되는가?          | 레이아웃, 작업 배치, 자원 수, 작업 순서 비교            |
+| 최적화·의사결정   | 어떤 선택이 목적에 가장 적합한가?         | makespan, 생산성, 활용률, ergonomics를 고려한 계획 |
+| 제어·되먹임     | 결정 결과를 실제 시스템에 어떻게 반영할 것인가? | 생산계획, 작업 할당, 공정 파라미터의 갱신               |
 
 ## 설계 원칙
 
@@ -75,7 +75,7 @@ sources:
 
 ## 근거 자료
 
-- [[papers/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing]]
+- [[papers/Past, present, and future research of digital twin for smart manufacturing (2021)]]
 - [[web/The increasing potential and challenges of digital twins (2024)]]
-- [[papers/2026-08-01_sciencedirect.com_Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems]]
-- [[papers/2026-08-01_sciencedirect.com_Transitioning trends into action A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making]]
+- [[papers/Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems (2024)]]
+- [[papers/Transitioning trends into action - A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making (2024)]]
