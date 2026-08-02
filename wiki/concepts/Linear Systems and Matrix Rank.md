@@ -55,14 +55,14 @@ $$
 
 행 사다리꼴(Row Echelon Form, REF)은 다음 조건을 만족하는 행렬이다.
 
-1. 모든 영행은 아래쪽에 있다.
-2. 각 비영행의 첫 번째 비영 원소인 피벗(pivot)은 바로 위 행의 피벗보다 오른쪽에 있다.
-3. 각 피벗 아래의 원소는 모두 0이다.
+1. 모든 `zero row`는 아래쪽에 있다.
+2. 각 `nonzero row`의 `first nonzero entry`인 `pivot`은 바로 위 행의 `pivot`보다 오른쪽에 있다.
+3. 각 `pivot` 아래의 원소는 모두 0이다.
 
 REF에서는 피벗이 1일 필요가 없다. 기약 행 사다리꼴(Reduced Row Echelon Form, RREF)은 REF에 더해 다음 조건을 만족한다.
 
-4. 모든 피벗이 1이다.
-5. 피벗 열의 피벗 이외의 원소가 위·아래 모두 0이다.
+4. 모든 `pivot`이 1이다.
+5. `pivot column`에서 `pivot` 이외의 원소가 위·아래 모두 0이다.
 
 행 연산을 통해 pivot과 free variable을 드러낼 수 있으며, 행 동치(Row Equivalence)인 두 확장행렬은 같은 해집합을 나타낸다.
 
