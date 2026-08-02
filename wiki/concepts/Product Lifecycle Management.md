@@ -9,7 +9,7 @@ tags:
   - digital-twin
   - smart-manufacturing
 sources:
-  - "[[papers/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing]]"
+  - "[[papers/Past, present, and future research of digital twin for smart manufacturing (2021)]]"
 ---
 
 # Product Lifecycle Management
@@ -56,4 +56,4 @@ sources:
 
 ## 근거 자료
 
-- [[papers/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing]]
+- [[papers/Past, present, and future research of digital twin for smart manufacturing (2021)]]

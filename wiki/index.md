@@ -21,10 +21,10 @@
 
 ## 논문
 
-- [[papers/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing]] — 스마트 제조 디지털트윈 문헌 91편을 제품 수명주기·RAMI 4.0·기능 축으로 분류한 문헌 연구.
-- [[papers/2026-08-01_sciencedirect.com_Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems]] — 이산사건 시뮬레이션과 Digital Mirror로 자동차 인간-로봇 협업 조립라인을 분석한 연구.
-- [[papers/2026-08-01_sciencedirect.com_Transitioning trends into action A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making]] — IoT·Advanced Plant Model·FlexSim·OptQuest를 연결한 MaaS job-shop 디지털트윈 아키텍처 연구.
-- [[papers/2026-08-01_tandfonline.com_Verification and validation of digital twins a systematic literature review for manufacturing applications]] — 제조 디지털트윈 157편의 구현 검증·사용 맥락 타당화와 4R capability를 분석한 체계적 문헌 연구.
+- [[papers/Past, present, and future research of digital twin for smart manufacturing (2021)]] — 스마트 제조 디지털트윈 문헌 91편을 제품 수명주기·RAMI 4.0·기능 축으로 분류한 문헌 연구.
+- [[papers/Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems (2024)]] — 이산사건 시뮬레이션과 Digital Mirror로 자동차 인간-로봇 협업 조립라인을 분석한 연구.
+- [[papers/Transitioning trends into action - A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making (2024)]] — IoT·Advanced Plant Model·FlexSim·OptQuest를 연결한 MaaS job-shop 디지털트윈 아키텍처 연구.
+- [[papers/Verification and validation of digital twins - A systematic literature review for manufacturing applications (2025)]] — 제조 디지털트윈 157편의 구현 검증·사용 맥락 타당화와 4R capability를 분석한 체계적 문헌 연구.
 
 ## 웹 자료
 

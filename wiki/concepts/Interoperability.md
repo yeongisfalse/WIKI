@@ -10,9 +10,9 @@ tags:
   - industrial-iot
   - data-exchange
 sources:
-  - "[[papers/2026-08-01_sciencedirect.com_Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems]]"
-  - "[[papers/2026-08-01_sciencedirect.com_Transitioning trends into action A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making]]"
-  - "[[papers/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing]]"
+  - "[[papers/Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems (2024)]]"
+  - "[[papers/Transitioning trends into action - A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making (2024)]]"
+  - "[[papers/Past, present, and future research of digital twin for smart manufacturing (2021)]]"
 ---
 
 # Interoperability
@@ -57,6 +57,6 @@ HRC 사례는 FIWARE/FIROS와 NGSIv2 JSON 메시지를 이용해 조립선의 �
 
 ## 근거 자료
 
-- [[papers/2026-08-01_sciencedirect.com_Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems]]
-- [[papers/2026-08-01_sciencedirect.com_Transitioning trends into action A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making]]
-- [[papers/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing]]
+- [[papers/Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems (2024)]]
+- [[papers/Transitioning trends into action - A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making (2024)]]
+- [[papers/Past, present, and future research of digital twin for smart manufacturing (2021)]]

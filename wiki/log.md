@@ -28,7 +28,7 @@
 ## [2026-08-01] ingest | Past, present, and future research of digital twin for smart manufacturing
 
 - `raw/web/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing.md`를 변경하지 않고 처리했다.
-- `wiki/papers/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing.md` 요약 페이지를 `draft`·`high` 신뢰도로 생성했다.
+- `wiki/papers/Past, present, and future research of digital twin for smart manufacturing (2021).md` 요약 페이지를 `draft`·`high` 신뢰도로 생성했다.
 - 기존 위키 페이지는 직접 수정하지 않았으며, 개념·주제·방법·아이디어 연결은 `wiki/proposals.md`의 P-001–P-004로 제안했다.
 - `wiki/index.md`에 웹 자료를 등록하고, 처리 상태를 `wiki/.state/ingest-state.json`에 `processed`로 기록했다.
 
@@ -104,3 +104,9 @@
 - `Vector Spaces and Linear Transformations`에 비동차 해집합의 affine 구조와 feasible region이 일반적으로 부분공간이 아니라는 점을 추가했다.
 - `Eigenvalues and Quadratic Forms`에 Positive Definite 이차함수의 유일한 전역최적해 정리와 정의역·제약조건의 적용 범위를 명시했다.
 - 로컬 Vault의 원본 노트는 수정하지 않았으며, HyeWiki 페이지는 검토 가능한 `draft` 상태를 유지했다.
+
+## [2026-08-02] revise | 논문 페이지 파일명 규칙 개선
+
+- `wiki/papers/`의 4개 요약 페이지 파일명을 `수집일_출처_제목` 형식에서 `논문 제목 (발행연도)` 형식으로 변경했다.
+- 제목을 먼저 보여 주도록 내부 링크와 `wiki/index.md`를 갱신했다.
+- `raw/web/`의 원본 파일명과 frontmatter의 `raw_file` 경로는 원본 추적을 위해 유지했다.

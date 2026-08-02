@@ -10,9 +10,9 @@ tags:
   - discrete-event-simulation
   - decision-support
 sources:
-  - "[[papers/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing]]"
-  - "[[papers/2026-08-01_sciencedirect.com_Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems]]"
-  - "[[papers/2026-08-01_sciencedirect.com_Transitioning trends into action A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making]]"
+  - "[[papers/Past, present, and future research of digital twin for smart manufacturing (2021)]]"
+  - "[[papers/Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems (2024)]]"
+  - "[[papers/Transitioning trends into action - A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making (2024)]]"
 ---
 
 # Simulation-based Optimization
@@ -82,6 +82,6 @@ dynamic job-shop 사례에서는 다음 구성요소가 전략적·운영적 의
 
 ## 근거 자료
 
-- [[papers/2026-08-01_oup.com_Past, present, and future research of digital twin for smart manufacturing]]
-- [[papers/2026-08-01_sciencedirect.com_Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems]]
-- [[papers/2026-08-01_sciencedirect.com_Transitioning trends into action A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making]]
+- [[papers/Past, present, and future research of digital twin for smart manufacturing (2021)]]
+- [[papers/Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems (2024)]]
+- [[papers/Transitioning trends into action - A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making (2024)]]

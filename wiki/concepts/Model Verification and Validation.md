@@ -11,9 +11,9 @@ tags:
   - digital-twin
   - simulation
 sources:
-  - "[[papers/2026-08-01_tandfonline.com_Verification and validation of digital twins a systematic literature review for manufacturing applications]]"
+  - "[[papers/Verification and validation of digital twins - A systematic literature review for manufacturing applications (2025)]]"
   - "[[web/2026-08-01_nature.com_The increasing potential and challenges of digital twins - Nature Computational Science]]"
-  - "[[papers/2026-08-01_sciencedirect.com_Transitioning trends into action A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making]]"
+  - "[[papers/Transitioning trends into action - A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making (2024)]]"
 ---
 
 # Model Verification and Validation
@@ -65,6 +65,6 @@ sources:
 
 ## 근거 자료
 
-- [[papers/2026-08-01_tandfonline.com_Verification and validation of digital twins a systematic literature review for manufacturing applications]]
+- [[papers/Verification and validation of digital twins - A systematic literature review for manufacturing applications (2025)]]
 - [[web/2026-08-01_nature.com_The increasing potential and challenges of digital twins - Nature Computational Science]]
-- [[papers/2026-08-01_sciencedirect.com_Transitioning trends into action A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making]]
+- [[papers/Transitioning trends into action - A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making (2024)]]
