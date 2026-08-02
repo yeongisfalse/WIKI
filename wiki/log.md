@@ -49,3 +49,11 @@
 - `ingest`를 원본에서 위키 요약·메타데이터·연결 제안으로 구조화하는 초기 처리 단계로 설명했다.
 - 4R(Representation·Replication·Reality·Relational)의 단계별 의미와 capability 예시를 추가했다.
 - Nature Editorial의 유형 설명을 “특정 주제의 주요 연구와 쟁점을 소개·해설하는 편집 글”로 구체화했다.
+
+## [2026-08-02] apply | 승인된 제안 P-001–P-008 반영
+
+- 혜영님의 명시적 승인에 따라 proposals.md의 pending 제안 P-001–P-008을 모두 승인하고 반영했다.
+- concepts/, topics/, methods/, ideas/에 디지털트윈, 스마트 제조 지도, PLM, RAMI 4.0, 시뮬레이션 기반 최적화, 불확실성 정량화, surrogate model, 인간-로봇 협업, 이산사건 시뮬레이션, 상호운용성, 의사결정 지원, 모델 검증·타당화, 디지털트윈 성숙도, 신뢰할 수 있는 디지털트윈 페이지를 생성했다.
+- 여러 제안이 같은 페이지를 대상으로 한 경우 기존 내용을 덮어쓰지 않고 통합했다. 특히 P-005는 Digital Twin, P-007은 Simulation-based Optimization과 Integrated Digital Twin Optimization Loop에 연결해 반영했다.
+- P-004의 통합 최적화 루프는 확정된 사실이 아니라 혜영님의 연구 맥락에 맞춘 medium 신뢰도의 연구 아이디어 후보로 표시했다.
+- 모든 새 페이지를 index.md에 등록하고, 원본 raw/는 변경하지 않았다.
