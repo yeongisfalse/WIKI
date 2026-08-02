@@ -12,7 +12,7 @@ tags:
   - uncertainty
 sources:
   - "[[papers/Verification and validation of digital twins - A systematic literature review for manufacturing applications (2025)]]"
-  - "[[web/2026-08-01_nature.com_The increasing potential and challenges of digital twins - Nature Computational Science]]"
+  - "[[web/The increasing potential and challenges of digital twins (2024)]]"
   - "[[papers/Transitioning trends into action - A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making (2024)]]"
 ---
 
@@ -67,5 +67,5 @@ sources:
 ## 근거 자료
 
 - [[papers/Verification and validation of digital twins - A systematic literature review for manufacturing applications (2025)]]
-- [[web/2026-08-01_nature.com_The increasing potential and challenges of digital twins - Nature Computational Science]]
+- [[web/The increasing potential and challenges of digital twins (2024)]]
 - [[papers/Transitioning trends into action - A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making (2024)]]

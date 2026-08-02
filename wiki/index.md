@@ -28,7 +28,7 @@
 
 ## 웹 자료
 
-- [[web/2026-08-01_nature.com_The increasing potential and challenges of digital twins - Nature Computational Science]] — 여러 분야의 DT 확장 가능성과 fit-for-purpose·검증·타당화·불확실성 정량화·human-in-the-loop 과제를 종합한 Nature Editorial.
+- [[web/The increasing potential and challenges of digital twins (2024)]] — 여러 분야의 DT 확장 가능성과 fit-for-purpose·검증·타당화·불확실성 정량화·human-in-the-loop 과제를 종합한 Nature Editorial.
 
 ## 방법론
 

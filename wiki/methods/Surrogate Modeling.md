@@ -10,7 +10,7 @@ tags:
   - digital-twin
   - optimization
 sources:
-  - "[[web/2026-08-01_nature.com_The increasing potential and challenges of digital twins - Nature Computational Science]]"
+  - "[[web/The increasing potential and challenges of digital twins (2024)]]"
   - "[[papers/Transitioning trends into action - A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making (2024)]]"
 ---
 
@@ -64,5 +64,5 @@ Surrogate model은 계산 비용이 큰 시뮬레이션 또는 물리 모델의 
 
 ## 근거 자료
 
-- [[web/2026-08-01_nature.com_The increasing potential and challenges of digital twins - Nature Computational Science]]
+- [[web/The increasing potential and challenges of digital twins (2024)]]
 - [[papers/Transitioning trends into action - A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making (2024)]]

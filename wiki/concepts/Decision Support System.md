@@ -12,7 +12,7 @@ tags:
 sources:
   - "[[papers/Transitioning trends into action - A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making (2024)]]"
   - "[[papers/Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems (2024)]]"
-  - "[[web/2026-08-01_nature.com_The increasing potential and challenges of digital twins - Nature Computational Science]]"
+  - "[[web/The increasing potential and challenges of digital twins (2024)]]"
 ---
 
 # Decision Support System
@@ -65,4 +65,4 @@ sources:
 
 - [[papers/Transitioning trends into action - A simulation-based Digital Twin architecture for enhanced strategic and operational decision-making (2024)]]
 - [[papers/Simulation-based Digital Twin for enhancing human-robot collaboration in assembly systems (2024)]]
-- [[web/2026-08-01_nature.com_The increasing potential and challenges of digital twins - Nature Computational Science]]
+- [[web/The increasing potential and challenges of digital twins (2024)]]
