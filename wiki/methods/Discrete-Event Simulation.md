@@ -16,6 +16,12 @@ sources:
 
 # Discrete-Event Simulation
 
+## 빠른 이해
+
+- DES는 시간 전체를 촘촘히 계산하지 않고 사건 목록과 사건 시각을 관리해 상태를 갱신한다.
+- 모델의 핵심은 entity·resource·queue·process·event·state variable을 실제 시스템의 규칙과 일관되게 정의하는 것이다.
+- 결과는 한 번의 실행값이 아니라 초기조건·난수·warm-up·반복 횟수·검증된 관측자료에 의존하는 통계적 추정값이다.
+
 ## 정의
 
 이산사건 시뮬레이션(Discrete-Event Simulation, DES)은 시스템 상태가 연속적으로 매 순간 바뀐다고 가정하기보다, 도착·출발·고장·작업 완료·상태 변경과 같은 사건이 발생하는 시점에 상태를 갱신하는 시뮬레이션 방법이다.

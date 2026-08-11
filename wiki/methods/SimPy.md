@@ -20,6 +20,12 @@ tags:
 
 # SimPy
 
+## 빠른 이해
+
+- SimPy는 Python에서 process generator와 event를 사용해 이산사건 시뮬레이션을 작성하는 라이브러리다.
+- Environment가 시간과 이벤트를 진행하고, Resource·Container·Store가 공유 자원·수량·객체의 대기와 획득을 표현한다.
+- 코드가 실행된다는 사실은 모델이 타당하다는 뜻이 아니다. 사건 순서, 자원 용량, 대기 규칙, 종료 조건, 난수 재현성, 실제자료 비교를 별도로 검증해야 한다.
+
 ## 정의와 역할
 
 SimPy는 Python에서 이산사건 시뮬레이션(Discrete-Event Simulation, DES)을 구현할 때 사용하는 프로세스 기반 라이브러리다. 자동차·고객·작업물과 같은 **프로세스(Process)**가 공통 **환경(Environment)** 안에서 사건(Event)을 기다리고, 사건이 발생한 시점에 다시 실행되도록 모델을 작성한다.
